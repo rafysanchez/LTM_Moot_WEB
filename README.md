@@ -1,7 +1,7 @@
 # 
 Sistemas com base em MVC C# com WEB API - Sistema de Login usando token e Angulars JS
 
-TESTE
+Objetivos:
  
 1.      Criar um site utilizando SPA com Angular na versão 2 ou superior
 1.1.    - Fazer uma tela de login, que irá se autenticar em uma api (que o candidato também irá desenvolver) que retornará o token.
